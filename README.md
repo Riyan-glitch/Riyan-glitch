@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shaik Riyan 👋
 
-<!--
-**Riyan-glitch/Riyan-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) at Lovely Professional University
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certifications
+- Oracle Data Platform 2025 Foundations Associate
+
+🤝 Activities
+- NSS Volunteer
+
+🌏 Interests
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Japanese Technology
+
+🎯 Goal
+To build a global career in technology and gain international experience through innovation and continuous learning.
