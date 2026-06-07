@@ -223,5 +223,3 @@ Speech Recognition + Text-to-Speech Assistant.
 Code • Learn • Build • Repeat
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting;See+You+Again;Keep+Building+Awesome+Things" />
-
-</di
