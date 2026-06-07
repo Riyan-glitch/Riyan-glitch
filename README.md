@@ -21,7 +21,7 @@ Role: Software Developer
 Education:
   Degree: B.Tech Computer Science Engineering
   University: Lovely Professional University
-Passionate About:
+Interests:
   - AWS Cloud Computing
   - Artificial Intelligence
   - Software Engineering
@@ -30,7 +30,7 @@ Currently Learning:
   - AWS
   - Machine Learning
   - System Design
-  - DSA
+  - Data Structures & Algorithms
 Goal:
   - Software Engineer
   - Cloud Architect
@@ -56,34 +56,8 @@ $ motto
 
 🚀 Tech Stack
 
-Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
-</p>
-
-Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-Cloud & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,nodejs,mysql,mongodb,aws,git,github,vscode,linux" />
 </p>
 
 ⸻
@@ -94,7 +68,7 @@ Cloud & Tools
 * 🤖 Machine Learning
 * 🐍 Python Development
 * 🌐 Full Stack Development
-* 🚀 Open Source Contribution
+* 🚀 Open Source Projects
 
 ⸻
 
@@ -102,7 +76,7 @@ Cloud & Tools
 
 💰 Student Expense Tracker
 
-Track expenses, budgets, and spending analytics.
+Track expenses, budgets and spending analytics.
 
 🌦️ Weather Dashboard
 
@@ -110,16 +84,7 @@ Real-time weather monitoring using APIs.
 
 🤖 AI Voice Assistant
 
-Speech Recognition + Text-to-Speech Assistant.
-
-⸻
-
-📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riyan-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+Speech Recognition + Text-to-Speech powered assistant.
 
 ⸻
 
@@ -139,14 +104,6 @@ Speech Recognition + Text-to-Speech Assistant.
 
 ⸻
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Riyan-glitch&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
-⸻
-
 📋 Profile Summary
 
 <p align="center">
@@ -154,15 +111,9 @@ Speech Recognition + Text-to-Speech Assistant.
 </p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riyan-glitch&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riyan-glitch&theme=tokyonight"/>
 </p>
-
-⸻
-
-🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Riyan-glitch/Riyan-glitch/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riyan-glitch&theme=tokyonight"/>
 </p>
 
 ⸻
@@ -173,9 +124,9 @@ Speech Recognition + Text-to-Speech Assistant.
 
 🤖 AI & Machine Learning Explorer
 
-💻 Full Stack Developer
+💻 Full Stack Development Enthusiast
 
-🚀 Open Source Enthusiast
+🚀 Open Source Contributor
 
 📚 Lifelong Learner
 
@@ -212,7 +163,7 @@ Speech Recognition + Text-to-Speech Assistant.
 
 ⚡ Quote
 
-"The best way to predict the future is to create it."
+“The best way to predict the future is to create it.”
 
 ⸻
 
@@ -220,6 +171,6 @@ Speech Recognition + Text-to-Speech Assistant.
 
 🚀 Thanks For Visiting My Profile
 
-Code • Learn • Build • Repeat
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting;Keep+Building+Awesome+Things;See+You+Again" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting;See+You+Again;Keep+Building+Awesome+Things" />
+</di
