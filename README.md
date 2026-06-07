@@ -1,195 +1,100 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=SHAIK+RIYAN;Software+Engineer;AWS+Enthusiast;AI+Explorer;Full+Stack+Developer;Building+The+Future+With+Code" />
-
-🚀 Software Engineer • ☁️ AWS Enthusiast • 🤖 AI Explorer
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Enthusiast-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Explorer-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-</p>
-<img src="https://komarev.com/ghpvc/?username=Riyan-glitch&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=SHAIK%20RIYAN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-⸻
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=60&lines=Software+Engineer;AWS+Enthusiast;AI+Explorer;Full+Stack+Developer;Building+The+Future+With+Code" />
 
-⚡ About Me
+  <p>
+    <img src="https://img.shields.io/badge/AWS-Enthusiast-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI-Explorer-8A2BE2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Riyan-glitch&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</div>
 
-Name: SHAIK RIYAN
-Role: Software Developer
-Education:
-  Degree: B.Tech Computer Science Engineering
-  University: Lovely Professional University
-Interests:
-  - AWS Cloud Computing
-  - Artificial Intelligence
-  - Software Engineering
-  - Full Stack Development
-Currently Learning:
-  - AWS
-  - Machine Learning
-  - System Design
-  - DSA
-Goal:
-  - Software Engineer
-  - Cloud Architect
+---
 
-⸻
+### ⚡ About Me
 
-💻 Terminal
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🎓 <b>Education:</b> B.Tech CSE @ Lovely Professional University</li>
+        <li>💡 <b>Interests:</b> AWS Cloud Computing, AI, Full Stack Development</li>
+        <li>🌱 <b>Currently Learning:</b> AWS, Machine Learning, System Design, DSA</li>
+        <li>🎯 <b>Goal:</b> Software Engineer & Cloud Architect</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan-glitch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
+---
+
+### 💻 Terminal
+
+```shell
 $ whoami
 > SHAIK RIYAN
-$ education
-> B.Tech CSE @ Lovely Professional University
-$ cloud
-> AWS Enthusiast
-$ ai
-> AI Explorer
+
+$ role
+> Software Developer
+
 $ status
 > Learning • Building • Improving
+
 $ motto
-> Code. Learn. Build. Repeat.
-
-⸻
-
+> "The best way to predict the future is to create it."
+🏆 GitHub Trophies
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Riyan-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Riyan's Trophies" />
+</a>
+</p>
 🚀 Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript&perline=4" />
 
-💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
 
-🎨 Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js" height="55"/>
-  <img src="https://skillicons.dev/icons?i=react" height="55"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=4" />
 
-⚙️ Backend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-  <img src="https://skillicons.dev/icons?i=express" height="55"/>
-</p>
-
-🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-</p>
-
-☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="55"/>
-</p>
-
-🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-</p>
-
-⸻
-
-🌱 Current Focus
-
-* ☁️ AWS Cloud Computing
-* 🤖 Machine Learning
-* 🐍 Python Development
-* 🌐 Full Stack Development
-* 🚀 Open Source Projects
-
-⸻
-
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode&perline=5" />
+</div>
 📂 Featured Projects
-
-💰 Student Expense Tracker
-
-Track expenses, budgets, and spending analytics.
-
-🌦️ Weather Dashboard
-
-Real-time weather monitoring using APIs.
-
-🤖 AI Voice Assistant
-
-Speech Recognition + Text-to-Speech powered assistant.
-
-⸻
-
-🔥 GitHub Streak
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyan-glitch&theme=tokyonight&hide_border=true"/>
-</p>
-
-⸻
-
-📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan-glitch&theme=tokyo-night&hide_border=true"/>
-</p>
-
-⸻
-
-📋 Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riyan-glitch&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riyan-glitch&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riyan-glitch&theme=tokyonight"/>
-</p>
-
-⸻
-
-🏅 Achievements
-
-🏆 AWS Cloud Learner
-
-🤖 AI & Machine Learning Explorer
-
-💻 Full Stack Development Enthusiast
-
-🚀 Open Source Contributor
-
-📚 Lifelong Learner
-
-⸻
-
-💻 Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://github.com/Riyan-glitch/student-expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyan-glitch&repo=student-expense-tracker&theme=tokyonight&hide_border=true" alt="Student Expense Tracker"/>
 </a>
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://github.com/Riyan-glitch/weather-dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyan-glitch&repo=weather-dashboard&theme=tokyonight&hide_border=true" alt="Weather Dashboard"/>
 </a>
 </p>
-
-⸻
-
+📊 Performance & Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyan-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan-glitch&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+🐍 Contribution Snake Animation
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riyan-glitch/Riyan-glitch/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riyan-glitch/Riyan-glitch/output/github-contribution-grid-snake.svg">
+<img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Riyan-glitch/Riyan-glitch/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 🌐 Connect With Me
-
 <p align="center">
 <a href="mailto:riyanshaik.vr46@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -197,21 +102,13 @@ Speech Recognition + Text-to-Speech powered assistant.
 <a href="https://www.linkedin.com/in/shaik-riyan-988a78311/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Riyan-glitch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/Riyan_Glitch/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
-
-⸻
-
-⚡ Quote
-
-“The best way to predict the future is to create it.”
-
-⸻
-
 <div align="center">
-
-🚀 Thanks For Visiting My Profile
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting;Keep+Building+Awesome+Things;See+You+Again" />
+</div>
