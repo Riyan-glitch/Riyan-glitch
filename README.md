@@ -2,21 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=SHAIK%20RIYAN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=60&lines=Software+Engineer;AWS+Enthusiast;AI+Explorer;Full+Stack+Developer;Building+The+Future+With+Code" />
-
-  <p>
-    <img src="https://img.shields.io/badge/AWS-Enthusiast-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI-Explorer-8A2BE2?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Riyan-glitch&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=SHAIK+RIYAN;Software+Engineer;AWS+Enthusiast;AI+Explorer;Full+Stack+Developer;Building+The+Future+With+Code" />
-
 🚀 Software Engineer • ☁️ AWS Enthusiast • 🤖 AI Explorer
 
 <p>
