@@ -30,7 +30,7 @@ Currently Learning:
   - AWS
   - Machine Learning
   - System Design
-  - Data Structures & Algorithms
+  - DSA
 Goal:
   - Software Engineer
   - Cloud Architect
@@ -56,8 +56,51 @@ $ motto
 
 🚀 Tech Stack
 
+💻 Programming Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,nodejs,mysql,mongodb,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+</p>
+
+🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=react" height="55"/>
+</p>
+
+⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=express" height="55"/>
+</p>
+
+🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+</p>
+
+☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="55"/>
+</p>
+
+🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 </p>
 
 ⸻
@@ -76,7 +119,7 @@ $ motto
 
 💰 Student Expense Tracker
 
-Track expenses, budgets and spending analytics.
+Track expenses, budgets, and spending analytics.
 
 🌦️ Weather Dashboard
 
@@ -172,5 +215,3 @@ Speech Recognition + Text-to-Speech powered assistant.
 🚀 Thanks For Visiting My Profile
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting;Keep+Building+Awesome+Things;See+You+Again" />
-
-</di
